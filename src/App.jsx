@@ -6,6 +6,7 @@ import About from './components/About'
 import Work from './components/Work'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import ZapierChatbot from './components/ZapierChatbot'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <About />
       <Work />
       <Contact />
+      <ZapierChatbot />
       <Footer />
     </div>
   )
