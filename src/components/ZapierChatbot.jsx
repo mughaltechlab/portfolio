@@ -16,7 +16,7 @@ const ZapierChatbot = () => {
   }, []);
 
   return (
-    <div className="chatbot-container absolute top-0 p-10">
+    <div className="chatbot-container">
       <zapier-interfaces-chatbot-embed 
         is-popup="true"
         chatbot-id="cm6bbv1ct00579k8c2itx9wnv"
