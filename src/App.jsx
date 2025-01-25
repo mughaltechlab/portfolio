@@ -16,7 +16,7 @@ function App() {
       {/* <Skills /> */}
       <About />
       <Work />
-      {/* <Contact /> */}
+      <Contact />
       <ZapierChatbot />
       <Footer />
     </div>
