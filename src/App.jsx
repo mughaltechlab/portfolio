@@ -14,10 +14,10 @@ function App() {
       <Navbar />
       {/* <Hero /> */}
       {/* <Skills /> */}
+      <ZapierChatbot />
       <About />
       <Work />
       <Contact />
-      <ZapierChatbot />
       <Footer />
     </div>
   )
