@@ -12,8 +12,8 @@ function App() {
   return (
     <div className="">
       <Navbar />
-      {/* <Hero /> */}
-      {/* <Skills /> */}
+      <Hero />
+      <Skills />
       <ZapierChatbot />
       <About />
       <Work />
